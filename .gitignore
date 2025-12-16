@@ -97,3 +97,12 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# All meta files and assets
+*.meta
+*.asset
+
+# Most binary files
+/Resources
+/Scenes
+/TextMesh*
